@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="image_height">50dp</dimen>
+    <dimen name="image_width">50dp</dimen>
+
+    <!--Round dimens-->
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset_round">60dp</dimen>
+    <dimen name="digital_date_text_size_round">20dp</dimen>
+
+    <dimen name="digital_x_offset_round_date">40dp</dimen>
+    <dimen name="digital_x_offset_round_image">30dp</dimen>
+    <dimen name="digital_x_offset_round_max">100dp</dimen>
+    <dimen name="digital_x_offset_round_min">160dp</dimen>
+
+    <dimen name="digital_text_size_round_max">35dp</dimen>
+
+    <dimen name="rect_x_offset_begin_round">95dp</dimen>
+    <dimen name="rect_x_offset_end_round">150dp</dimen>
+    <dimen name="y_offset_image_round">145dp</dimen>
+    <dimen name="y_offset_max_round">185dp</dimen>
+    <dimen name="y_offset_min_round">185dp</dimen>
+    <dimen name="y_offset_date_round">115dp</dimen>
+    <dimen name="y_rect_top_round">135dp</dimen>
+    <dimen name="y_rect_bottom_round">136dp</dimen>
+
+
+    <!--Square dimens-->
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_x_offset">40dp</dimen>
+    <dimen name="digital_y_offset">85dp</dimen>
+    <dimen name="digital_date_text_size">18dp</dimen>
+    <dimen name="digital_x_offset_date">20dp</dimen>
+    <dimen name="digital_x_offset_image">135dp</dimen>
+    <dimen name="digital_x_offset_max">45dp</dimen>
+    <dimen name="digital_x_offset_min">105dp</dimen>
+    <dimen name="digital_text_size_max">30dp</dimen>
+    <dimen name="rect_x_offset_begin">75dp</dimen>
+    <dimen name="rect_x_offset_end">115dp</dimen>
+    <dimen name="y_offset_image">5dp</dimen>
+    <dimen name="y_offset_max">170dp</dimen>
+    <dimen name="y_offset_min">170dp</dimen>
+    <dimen name="y_offset_date">115dp</dimen>
+    <dimen name="y_rect_top">130dp</dimen>
+    <dimen name="y_rect_bottom">131dp</dimen>
+
+</resources>
